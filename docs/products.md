@@ -2,6 +2,7 @@
 layout: page
 title: Products
 permalink: /products/
+nav_order: 1
 ---
 
 
