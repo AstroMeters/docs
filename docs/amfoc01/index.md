@@ -10,7 +10,7 @@ has_children: true
 
 AMFOC01 is a highly sophisticated focuser primarily designed for astronomical telescopes, but it can also be applied to other optical devices. It employs cutting-edge technologies, such as the micro-stepping driver [TMC5130](https://www.trinamic.com/products/integrated-circuits/details/tmc5130/) for stepper motors and the [RP2040](https://www.raspberrypi.org/products/rp2040/) processor. These components ensure smooth and quiet operation without the unpleasant vibrations common with traditional methods of controlling stepper motors.
 
-The device is equipped with an OLED display and four buttons for easy user interaction. It can be connected to a computer via USB-C and controlled using software compatible with the [MoonLight](https://indilib.org/devices/focusers/moonlite-focuser.html) protocol, such as [KStars](https://edu.kde.org/kstars/) or [INDI](https://www.indilib.org/).
+The device is equipped with an red OLED display and four buttons for easy user interaction. It can be connected to a computer via USB-C and controlled using software compatible with the [MoonLight](https://indilib.org/devices/focusers/moonlite-focuser.html) protocol, such as [KStars](https://edu.kde.org/kstars/) or [INDI](https://www.indilib.org/) or it can be used without computer in manual or temperature-tracking mode.
 
 ### Key Features:
 
