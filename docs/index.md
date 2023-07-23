@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: AstroMeters.eu
 ---
 
 # Welcome to the [AstroMeters](https://www.astrometers.eu) documentation page.
