@@ -4,6 +4,7 @@
 
 layout: home
 title: AstroMeters.eu
+nav_order: 0
 ---
 
 # Welcome to the [AstroMeters](https://www.astrometers.eu) documentation page.
